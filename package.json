@@ -1,0 +1,19 @@
+{
+  "name": "com.ovpavlov.compilationlogexplorer",
+  "displayName": "Compilation Log Explorer",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "description": "Lets you explore compilation and domain reload profiler log, so you can see why does it take so long",
+  "keywords": [
+    "compilation",
+    "profiler"
+  ],
+  "documentationUrl": "https://github.com/OVPavlov/compilation-log-explorer",
+  "changelogUrl": "https://github.com/OVPavlov/compilation-log-explorer",
+  "licensesUrl": "https://github.com/OVPavlov/compilation-log-explorer/blob/main/LICENSE",
+  "author": {
+    "name": "ovpavlov",
+    "url": "https://github.com/OVPavlov"
+  },
+  "type": "tool"
+}
